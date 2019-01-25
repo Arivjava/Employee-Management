@@ -1,5 +1,6 @@
 package com.htcinc.www.employeemanagement.bo;
 
+//This is Skill class
 public class Skill {
 	
 	private int id;
