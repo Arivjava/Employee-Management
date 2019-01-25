@@ -4,7 +4,7 @@ import javax.swing.tree.RowMapper;
 import javax.swing.tree.TreePath;
 
 import org.springframework.stereotype.Component;
-
+//This is department class
 @Component
 public class Department implements RowMapper{
 
